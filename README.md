@@ -1,5 +1,5 @@
 # FitnessApp-Regular-Show-Themed-
-This repository only serves as a purpose to provide. This was a solo project which took less than 1 month (aprox. 3 weeks) to complete in swift code.
+This repository only serves as a purpose to provide. This was a 2 manned project which took less than 1 month (aprox. 3 weeks) to complete in swift code.
 
 # Summary
 The project is a fitness app made for an apple audience using Xcode Swift. This project took around 3-4 weeks to have the skeleton of the app in working order. 
